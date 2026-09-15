@@ -1,0 +1,10 @@
+# Binarios y objetos del servidor C
+server/server
+*.o
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
